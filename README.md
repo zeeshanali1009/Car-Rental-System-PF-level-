@@ -17,3 +17,6 @@ This is a simple Car Rental System implemented in C++. The project includes a co
 
 ## Author
  **Zeeshan Ali**
+
+ Licensed by:
+ Zeeshan Ali 
